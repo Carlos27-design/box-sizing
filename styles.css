@@ -1,0 +1,14 @@
+.caja {
+  font-family: 'Courier New', Courier, monospace;
+  width: 300px;
+  height: 180px;
+  margin: 30px auto;
+  padding: 50px;
+  border-radius: 10px;
+  background-color: cadetblue;
+  border: 1px solid grey;
+  text-align: center;
+  box-shadow: 0px 0px 10px gray;
+  color: white;
+  box-sizing: content-box;
+}
